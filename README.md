@@ -10,8 +10,8 @@ I'm Nazmul Karim Chowdhury
 
 
 
-Skills
-:small_blue_diamond:  C/C++.
+ <b> Skills </>
+:small_blue_diamond:  C/C++. <br>
 :small_orange_diamond:  Data Structures & Algorithms, Competitive Programming.
 
 
