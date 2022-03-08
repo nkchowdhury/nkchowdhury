@@ -10,14 +10,17 @@ I'm Nazmul Karim Chowdhury
 
 
 
- <b> Skills </>
-:small_blue_diamond:  C/C++. <br>
+ ##Skills <br/>
+:small_blue_diamond:  C/C++. <br/>
 :small_orange_diamond:  Data Structures & Algorithms, Competitive Programming.
+<br/>
+<br/>
+<br/>
 
 
 
-Currently doing
-:desktop_computer: I’m currently learning c++.
+##Currently doing  <br/>
+:desktop_computer: I’m currently learning c++. <br/>
 :bar_chart: Learning Data Structures & Algorithms, Competitive Programming.
 
 
