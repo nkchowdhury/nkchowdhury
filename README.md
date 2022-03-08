@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm Nazmul Karim Chowdhury
 
+
+:desktop_computer: I’m currently learning c++.
+
 <!--
 **nkchowdhury/nkchowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
