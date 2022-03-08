@@ -2,11 +2,39 @@
 I'm Nazmul Karim Chowdhury
 
 
-:desktop_computer: I’m currently learning c++.
+
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkchowdhury&show_icons=true&theme=radical)
+
+
+
+Skills
+:small_blue_diamond:  C/C++.
+:small_orange_diamond:  Data Structures & Algorithms, Competitive Programming.
+
+
+
+Currently doing
+:desktop_computer: I’m currently learning c++.
+:bar_chart: Learning Data Structures & Algorithms, Competitive Programming.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **nkchowdhury/nkchowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
