@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Nazmul Karim Chowdhury
-
+front-end developer
 
 
 
