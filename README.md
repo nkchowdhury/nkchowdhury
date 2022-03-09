@@ -13,7 +13,8 @@ front-end developer
  ### Skills 
  ---
 :small_blue_diamond:  C/C++. <br/>
-:small_orange_diamond:  Data Structures & Algorithms, Competitive Programming.
+:small_orange_diamond:  Data Structures & Algorithms. <br/>
+:small_blue_diamond:  Competitive Programming.
 <br/>
 <br/>
 <br/>
